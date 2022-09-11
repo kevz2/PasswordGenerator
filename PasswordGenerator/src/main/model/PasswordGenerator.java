@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Random;
 
 /*
-Represents a password generator
+Represents a simple password generator
  */
 
 public class PasswordGenerator {

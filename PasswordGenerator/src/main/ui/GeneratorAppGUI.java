@@ -15,7 +15,7 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 /*
-Represents the graphical user interface window of the application
+Represents the graphical user interface window of the password generator application
  */
 
 public class GeneratorAppGUI extends JFrame {

@@ -197,7 +197,7 @@ public class PasswordGeneratorTest {
         generator.enableSpecialSymbols();
         assertTrue(generator.getSpecialSymbols());
         generator.finalizeAllowedCharacters();
-        List<String> array = new ArrayList<String>();
+        List<String> array = new ArrayList<>();
         for (String s1 : LOWER_CASE_LETTERS) {
             array.add(s1);
         }
